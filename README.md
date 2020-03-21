@@ -1,2 +1,2 @@
 # Sandesh
-A minimal UI chat app.
+A minimal UI chat app in flutter.
